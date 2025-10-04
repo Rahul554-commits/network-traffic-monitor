@@ -21,15 +21,16 @@ Monitor live network packets, view protocol distribution, top talkers, and analy
 
 ### 1. Dashboard Overview
 Shows recent packets and a refresh option.  
-![Dashboard Overview](screenshots/1.png)
+![Dashboard Overview](assets/1.png)
 
 ### 2. Protocol Distribution & Top Talkers
 Analyze protocol distribution and view top source IPs.  
-![Protocol Distribution and Top Talkers](screenshots/2.png)
+![Protocol Distribution and Top Talkers](assets/2.png)
 
 ### 3. Traffic Over Time
 Observe traffic trends.  
-![Traffic Over Time](screenshots/3.png)
+![Traffic Over Time](assets/3.png)
+
 
 ---
 
